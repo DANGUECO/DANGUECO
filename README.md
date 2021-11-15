@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything involving or relating to data analysis!
 - 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on websites or external data analysis projects!
-- 📫 How to reach me: https://www.linkedin.com/in/raphael-dan-gueco-7445671aa/
+- 📫 How to reach me: guecodan@gmail.com
 
 <!---
 DANGUECO/DANGUECO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
