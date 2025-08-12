@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on websites or external data analysis projects!
 - 📫 How to reach me: guecodan@gmail.com
 
+- My Apps are shown for usage/display on https://share.streamlit.io/user/dangueco
+
 <!---
 DANGUECO/DANGUECO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
